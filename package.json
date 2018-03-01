@@ -18,5 +18,14 @@
   "dependencies": {
     "commander": "^2.14.1",
     "through2": "^2.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CooLNuanfeng/support-https.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CooLNuanfeng/support-https/issues"
+  },
+  "homepage": "https://github.com/CooLNuanfeng/support-https#readme"
 }
