@@ -1,0 +1,22 @@
+{
+  "name": "support-https",
+  "version": "1.0.0",
+  "description": "文件支持https",
+  "main": "index.js",
+  "bin": {
+    "suphttps": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "support",
+    "https"
+  ],
+  "author": "CooLNuanfeng",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "through2": "^2.0.3"
+  }
+}
